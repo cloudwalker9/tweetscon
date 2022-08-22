@@ -2,8 +2,8 @@
 
 TweetsCon - .NET 6 C# console app sample to consume http stream from tweeter and persist the tweets in SQLLite DB
 
-## Running on your local machine
-In ContentStream\appsettings.json file, update the 'TwitterAuthToken' value with the auth token you received from [Twitter Developer] (https://developer.twitter.com/en/products/twitter-api).  After update press F5 from visual studio.
+## How to on your local machine
+In ContentStream\appsettings.json file, update the 'TwitterAuthToken' value with the auth token you received from [Twitter Developer] (https://developer.twitter.com/en/products/twitter-api).  After update open .sln file from visual studio and clieck on run.
 
 
 ```json
