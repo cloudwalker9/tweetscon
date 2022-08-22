@@ -3,8 +3,8 @@
 TweeterCon is a .NET 6 C# example to consume http stream from tweeter and persist the tweets in SQLLite DB
 
 ## Running on your local machine
-In appsettings.json file, update the 'TwitterAuthToken' value with the token you received from [Twitter Developer] (https://developer.twitter.com/en/products/twitter-api).
-After updating simply hit the Run button from visual studio.
+In ContentStream\appsettings.json file, update the 'TwitterAuthToken' value with the auth token you received from [Twitter Developer] (https://developer.twitter.com/en/products/twitter-api).  After update press F5 from visual studio.
+
 
 ```json
 {
